@@ -1,2 +1,2 @@
 # Quicktranslate
-Quick Translate app on Mac status bar
+Google Translate webview on Mac status bar
