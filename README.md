@@ -1,2 +1,2 @@
 # Quicktranslate
-Translate tiny app on Mac status bar
+Quick Translate app on Mac status bar
